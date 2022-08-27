@@ -28,12 +28,12 @@ After cloning the repository onto your machine, navigate to the project's direct
 #### A) Venv setup
 
 Run the following commands:
-1) Create a venv with the name "langlab_ENV"
+1) Create a venv with the name "ChatRoom_ENV"
 2) Activate the venv
 
 ```console
-python -m venv langlab_ENV
-langlab_ENV\scripts\activate.bat
+python -m venv ChatRoom_ENV
+ChatRoom_ENV\scripts\activate.bat
 ```
 
 Now, from the project directory you can run:
@@ -55,8 +55,8 @@ python manage.py migrate
 
 ```console
 python manage.py shell
-from conjugate import conj_db_import
-conj_db_import.lang_import_all()
+from chatmain import chatmain_db_import
+chatmain_db_import.chatroom_import_all()
 exit()
 ```
 
