@@ -1,6 +1,6 @@
 # ChatRoomWebApp - An open source chat room website for focused talks.
 ![Photos of the website](chatmain/statics/HomePageDemo.png)
-![Photos of the website](chatmain/statics/HomePageDemo.png)
+![Photos of the website](chatmain/statics/RoomPageDemo.png)
 
 #### Welcome to ChatRoomWebApp, an open-source chat-room website for topic related talks!
 
