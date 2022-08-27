@@ -55,8 +55,8 @@ python manage.py migrate
 
 ```console
 python manage.py shell
-from chatroom import chatroom_db_import
-chatroom_db_import.chatroomwebapp_import_all()
+from chatmain import chatmain_db_import
+chatmain_db_import.chatroom_import_all()
 exit()
 ```
 
