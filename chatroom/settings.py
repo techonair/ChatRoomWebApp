@@ -8,6 +8,9 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
+
+## Requirement.txt creation command ##
+python -m  pipreqs.pipreqs --encoding utf-8  E:\ProjectName
 """
 
 
