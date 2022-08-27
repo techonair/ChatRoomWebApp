@@ -28,12 +28,12 @@ After cloning the repository onto your machine, navigate to the project's direct
 #### A) Venv setup
 
 Run the following commands:
-1) Create a venv with the name "langlab_ENV"
+1) Create a venv with the name "ChatRoom_ENV"
 2) Activate the venv
 
 ```console
-python -m venv langlab_ENV
-langlab_ENV\scripts\activate.bat
+python -m venv ChatRoom_ENV
+ChatRoom_ENV\scripts\activate.bat
 ```
 
 Now, from the project directory you can run:
