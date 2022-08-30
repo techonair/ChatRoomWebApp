@@ -1,6 +1,6 @@
 # ChatRoomWebApp - An open source chat room website for focused talks.
 
-### LIVE Website: https://chatroom-web.herokuapp.com/
+#### LIVE Website: https://chatroom-web.herokuapp.com/
 
 ### Home Page: User can create room or join a room already created
 ![Photos of the website](chatmain/statics/HomePageDemo.png)
