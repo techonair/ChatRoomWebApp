@@ -1,5 +1,8 @@
 # ChatRoomWebApp - An open source chat room website for focused talks.
-![Photo of the website](/static/images/website_picture.png)
+### Home Page: User can create room or join a room already created
+![Photos of the website](chatmain/statics/HomePageDemo.png)
+### Room Page: User can chat realtime the first window is of User1- Elon Kumar and second is User2- Rama Krishnan
+![Photos of the website](chatmain/statics/RoomPageDemo.png)
 
 #### Welcome to ChatRoomWebApp, an open-source chat-room website for topic related talks!
 
